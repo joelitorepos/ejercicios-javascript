@@ -1,0 +1,74 @@
+// Math EMPIEZA POR MAYUSCULA
+// SQRT
+// SACA LA RAIZ CUADRADA
+let numero = Math.sqrt(25);
+
+document.write(numero + "<br>");
+
+// CBRT
+// PARA SACAR LA RAIZ CUBICA
+numero = Math.cbrt(27);
+
+document.write(numero + "<br>");
+
+// MAX
+// DEEVOLVERA EL NUMERO MAS GRANDE
+// TRABAJA SOLO CON 
+numero = Math.max(1,2,3,4,89,27);
+
+document.write(numero + "<br>");
+
+// MIN
+// DEVUELVE EL NUMERO MAS PEQUEÑO 
+numero = Math.min(1,2,3,4,89,27);
+
+document.write(numero + "<br>");
+
+// RANDOM
+// DEVUELVE UN NUMERO PSEUDOALEATORIO ENTRE 0 Y 1 NORMALMENTE DEVOLVERA UN NUMERO CON PUNTO DECIMAL
+numero = Math.random()*100;
+
+document.write(numero + "<br>");
+
+// ROUND
+// PARA REDONDEAR EL NUMERO Y QUE SEA ENTERO, AL NUMERO MAS CERCANO
+numero = Math.round(numero);
+
+document.write(numero + "<br>");
+
+// FLOOR
+// REDONDEA EL NUMERO A SU VALOR MAS BAJO
+
+numero = Math.floor(numero);
+
+document.write(numero + "<br>");
+
+// FROUND
+// REDONDEA EL NUMERO DECIMAL PARA QUE TRABAJE CON MAXIMO 15 NUMEROS FLOTANTES
+
+// TRUNC
+// TRUNC NO REDONDEA LA FRACCION SI NO QUE LO VUELVE ENTERO, COMO QUITARLE TODOS LOS DECIMALES QUE TIENE EL NUMERO
+
+// PI
+// Math.PI DEVUELVE EL NUMERO PI
+
+// SQRT1_2
+// Math.SQRT1_2DEVUELVE EL NUMERO RESULTADO DE LA RAIZ CUADRADA DE UN MEDIO
+
+// SQRT2
+// Math.SQRT2 DEVUELVE EL NUMERO DE LA RAIZ CUADRADA DE 2
+
+// E
+// Math.E PARA EL NUMERO E
+
+// LN2
+// Math.LN2 LOGARITMO NATURAL DE DOS
+
+// LN10
+// Math.LN10 LOGARITMO NATURAL DE DIES
+
+// LOG2E
+// MAth.LOG2E LOGARITMO DE E EN BASE 2
+
+// LOG10E
+// MAth.LOG2E LOGARITMO DE E EN BASE 2
