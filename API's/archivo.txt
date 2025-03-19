@@ -1,0 +1,4 @@
+cualquier funcionalidad en los lenguajes de programacion es una API, por ejemplo, la funcion prompt() es una API, recibe uno o mas datos, los procesa y nos devuelve un resultado
+
+estan las API's internas de los lenguajes y las API Rest, que son las que se usan para comunicarse con servidores
+las API Rest son las que se usan para enviar y recibir datos de un servidor, por ejemplo, cuando se envia un formulario a un servidor, se esta usando una API Rest
